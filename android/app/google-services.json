@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684917042197",
+    "project_id": "shape-bea61",
+    "storage_bucket": "shape-bea61.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684917042197:android:7e66fed40f506d01d7321c",
+        "android_client_info": {
+          "package_name": "com.example.shape"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ASsnDyXTmlw7FBWjIlRy2G01EXs2WcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
